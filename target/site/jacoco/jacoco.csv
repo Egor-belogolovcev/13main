@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ProductManager,ru.netology,Product,18,18,0,0,9,7,5,3,5,3
+ProductManager,ru.netology,Book,10,9,0,0,5,3,3,1,3,1
+ProductManager,ru.netology,ProductManager,0,77,0,8,0,17,0,8,0,4
+ProductManager,ru.netology,Smartphone,19,0,0,0,8,0,4,0,4,0
+ProductManager,ru.netology.repository,ProductRepository,0,85,0,6,0,17,0,7,0,4
